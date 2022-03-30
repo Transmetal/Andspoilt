@@ -10,7 +10,7 @@ Installing
 
 Run the terminal as root type:
 
-`git clone https://github.com/Transmetal/AllHackingTools`
+`git clone https://github.com/Transmetal/Andspoilt`
 
 `cd /Andspoilt`
 
